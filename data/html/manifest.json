@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "uk-all",
+    "label": "Complete dataset (all denominations)"
+  },
+  {
+    "slug": "uk-1p",
+    "label": "One Penny (1p)"
+  },
+  {
+    "slug": "uk-2p",
+    "label": "Two Pence (2p)"
+  },
+  {
+    "slug": "uk-5p",
+    "label": "Five Pence (5p)"
+  },
+  {
+    "slug": "uk-10p",
+    "label": "Ten Pence (10p)"
+  },
+  {
+    "slug": "uk-20p",
+    "label": "Twenty Pence (20p)"
+  },
+  {
+    "slug": "uk-50p",
+    "label": "Fifty Pence (50p)"
+  },
+  {
+    "slug": "uk-1pound",
+    "label": "One Pound (£1)"
+  },
+  {
+    "slug": "uk-2pound",
+    "label": "Two Pounds (£2)"
+  }
+]

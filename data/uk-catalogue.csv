@@ -1,0 +1,488 @@
+source_page,catalogue_ref,section,year,remarks,price_f,price_vf,price_xf,price_unc,rarity,mint,metal,weight,size,shape,issue_price,market_value,denomination,mintage
+,UK-1P-2024,CHARLES III - ONE PENNY,2024,Hazel Dormouse (Flora and Fauna),,,,,R,Royal Mint,,,,,,,1 Penny,0
+,UK-1P-2023,CHARLES III - ONE PENNY,2023,Hazel Dormouse (Flora and Fauna),,,,,S,Royal Mint,,,,,,,1 Penny,600000
+,UK-1P-2022,ELIZABETH II - ONE PENNY,2022,,,,,,C,Royal Mint,,,,,,,1 Penny,30000000
+,UK-1P-2021,ELIZABETH II - ONE PENNY,2021,,,,,,C,Royal Mint,,,,,,,1 Penny,56000000
+,UK-1P-2020,ELIZABETH II - ONE PENNY,2020,,,,,,C,Royal Mint,,,,,,,1 Penny,88071910
+,UK-1P-2019,ELIZABETH II - ONE PENNY,2019,,,,,,R,Royal Mint,,,,,,,1 Penny,0
+,UK-1P-2018,ELIZABETH II - ONE PENNY,2018,,,,,,R,Royal Mint,,,,,,,1 Penny,0
+,UK-1P-2017,ELIZABETH II - ONE PENNY,2017,,,,,,C,Royal Mint,,,,,,,1 Penny,240990600
+,UK-1P-2016,ELIZABETH II - ONE PENNY,2016,,,,,,C,Royal Mint,,,,,,,1 Penny,368482000
+,UK-1P-2015-4,ELIZABETH II - ONE PENNY,2015,4th Portrait,,,,,C,Royal Mint,,,,,,,1 Penny,154600000
+,UK-1P-2015-5,ELIZABETH II - ONE PENNY,2015,5th Portrait,,,,,C,Royal Mint,,,,,,,1 Penny,418201016
+,UK-1P-2014,ELIZABETH II - ONE PENNY,2014,,,,,,C,Royal Mint,,,,,,,1 Penny,464801520
+,UK-1P-2013,ELIZABETH II - ONE PENNY,2013,,,,,,C,Royal Mint,,,,,,,1 Penny,260800000
+,UK-1P-2012,ELIZABETH II - ONE PENNY,2012,,,,,,C,Royal Mint,,,,,,,1 Penny,227201000
+,UK-1P-2011,ELIZABETH II - ONE PENNY,2011,,,,,,C,Royal Mint,,,,,,,1 Penny,431004000
+,UK-1P-2010,ELIZABETH II - ONE PENNY,2010,,,,,,C,Royal Mint,,,,,,,1 Penny,609603000
+,UK-1P-2009,ELIZABETH II - ONE PENNY,2009,,,,,,C,Royal Mint,,,,,,,1 Penny,556412800
+,UK-1P-2008-I,ELIZABETH II - ONE PENNY,2008,Ironside,,,,,C,Royal Mint,,,,,,,1 Penny,180600000
+,UK-1P-2008-D,ELIZABETH II - ONE PENNY,2008,Dent,,,,,C,Royal Mint,,,,,,,1 Penny,507952000
+,UK-1P-2007,ELIZABETH II - ONE PENNY,2007,,,,,,C,Royal Mint,,,,,,,1 Penny,548002000
+,UK-1P-2006,ELIZABETH II - ONE PENNY,2006,,,,,,C,Royal Mint,,,,,,,1 Penny,524605000
+,UK-1P-2005,ELIZABETH II - ONE PENNY,2005,,,,,,C,Royal Mint,,,,,,,1 Penny,536318000
+,UK-1P-2004,ELIZABETH II - ONE PENNY,2004,,,,,,C,Royal Mint,,,,,,,1 Penny,739764000
+,UK-1P-2003,ELIZABETH II - ONE PENNY,2003,,,,,,C,Royal Mint,,,,,,,1 Penny,539436000
+,UK-1P-2002,ELIZABETH II - ONE PENNY,2002,,,,,,C,Royal Mint,,,,,,,1 Penny,601446000
+,UK-1P-2001,ELIZABETH II - ONE PENNY,2001,,,,,,C,Royal Mint,,,,,,,1 Penny,928698000
+,UK-1P-2000,ELIZABETH II - ONE PENNY,2000,,,,,,C,Royal Mint,,,,,,,1 Penny,1060420000
+,UK-1P-1999,ELIZABETH II - ONE PENNY,1999,,,,,,C,Royal Mint,,,,,,,1 Penny,891392000
+,UK-1P-1998,ELIZABETH II - ONE PENNY,1998,,,,,,C,Royal Mint,,,,,,,1 Penny,739770000
+,UK-1P-1997,ELIZABETH II - ONE PENNY,1997,,,,,,C,Royal Mint,,,,,,,1 Penny,396874000
+,UK-1P-1996,ELIZABETH II - ONE PENNY,1996,,,,,,C,Royal Mint,,,,,,,1 Penny,723840060
+,UK-1P-1995,ELIZABETH II - ONE PENNY,1995,,,,,,C,Royal Mint,,,,,,,1 Penny,303314000
+,UK-1P-1994,ELIZABETH II - ONE PENNY,1994,,,,,,C,Royal Mint,,,,,,,1 Penny,843834000
+,UK-1P-1993,ELIZABETH II - ONE PENNY,1993,,,,,,C,Royal Mint,,,,,,,1 Penny,602590000
+,UK-1P-1992,ELIZABETH II - ONE PENNY,1992,,,,,,C,Royal Mint,,,,,,,1 Penny,253867000
+,UK-1P-1991,ELIZABETH II - ONE PENNY,1991,,,,,,C,Royal Mint,,,,,,,1 Penny,206457600
+,UK-1P-1990,ELIZABETH II - ONE PENNY,1990,,,,,,C,Royal Mint,,,,,,,1 Penny,529047500
+,UK-1P-1989,ELIZABETH II - ONE PENNY,1989,,,,,,C,Royal Mint,,,,,,,1 Penny,658142000
+,UK-1P-1988,ELIZABETH II - ONE PENNY,1988,,,,,,C,Royal Mint,,,,,,,1 Penny,793492000
+,UK-1P-1987,ELIZABETH II - ONE PENNY,1987,,,,,,C,Royal Mint,,,,,,,1 Penny,499946000
+,UK-1P-1986,ELIZABETH II - ONE PENNY,1986,,,,,,C,Royal Mint,,,,,,,1 Penny,369989130
+,UK-1P-1985,ELIZABETH II - ONE PENNY,1985,,,,,,C,Royal Mint,,,,,,,1 Penny,200605245
+,UK-1P-1984,ELIZABETH II - ONE PENNY,1984,,,,,,C,Royal Mint,,,,,,,1 Penny,154759625
+,UK-1P-1983,ELIZABETH II - ONE PENNY,1983,,,,,,C,Royal Mint,,,,,,,1 Penny,243002000
+,UK-1P-1982,ELIZABETH II - ONE PENNY,1982,,,,,,C,Royal Mint,,,,,,,1 Penny,100292000
+,UK-1P-1981,ELIZABETH II - ONE PENNY,1981,,,,,,C,Royal Mint,,,,,,,1 Penny,301800000
+,UK-1P-1980,ELIZABETH II - ONE PENNY,1980,,,,,,C,Royal Mint,,,,,,,1 Penny,416304000
+,UK-1P-1979,ELIZABETH II - ONE PENNY,1979,,,,,,C,Royal Mint,,,,,,,1 Penny,459000000
+,UK-1P-1978,ELIZABETH II - ONE PENNY,1978,,,,,,C,Royal Mint,,,,,,,1 Penny,292770000
+,UK-1P-1977,ELIZABETH II - ONE PENNY,1977,,,,,,C,Royal Mint,,,,,,,1 Penny,285430000
+,UK-1P-1976,ELIZABETH II - ONE PENNY,1976,,,,,,C,Royal Mint,,,,,,,1 Penny,300160000
+,UK-1P-1975,ELIZABETH II - ONE PENNY,1975,,,,,,C,Royal Mint,,,,,,,1 Penny,221604000
+,UK-1P-1974,ELIZABETH II - ONE PENNY,1974,,,,,,C,Royal Mint,,,,,,,1 Penny,330892000
+,UK-1P-1973,ELIZABETH II - ONE PENNY,1973,,,,,,C,Royal Mint,,,,,,,1 Penny,280196000
+,UK-1P-1971,ELIZABETH II - ONE PENNY,1971,,,,,,C,Royal Mint,,,,,,,1 Penny,1521666250
+,UK-2P-2024,CHARLES III - TWO PENCE,2024,Red Squirrel (Flora and Fauna),,,,,R,Royal Mint,,,,,,,2 Pence,0
+,UK-2P-2023,CHARLES III - TWO PENCE,2023,Red Squirrel (Flora and Fauna),,,,,R,Royal Mint,,,,,,,2 Pence,0
+,UK-2P-2022,ELIZABETH II - TWO PENCE,2022,,,,,,R,Royal Mint,,,,,,,2 Pence,0
+,UK-2P-2021,ELIZABETH II - TWO PENCE,2021,,,,,,C,Royal Mint,,,,,,,2 Pence,117700000
+,UK-2P-2020,ELIZABETH II - TWO PENCE,2020,,,,,,R,Royal Mint,,,,,,,2 Pence,0
+,UK-2P-2019,ELIZABETH II - TWO PENCE,2019,,,,,,R,Royal Mint,,,,,,,2 Pence,0
+,UK-2P-2018,ELIZABETH II - TWO PENCE,2018,,,,,,R,Royal Mint,,,,,,,2 Pence,0
+,UK-2P-2017,ELIZABETH II - TWO PENCE,2017,,,,,,C,Royal Mint,,,,,,,2 Pence,16600000
+,UK-2P-2016,ELIZABETH II - TWO PENCE,2016,,,,,,C,Royal Mint,,,,,,,2 Pence,185600000
+,UK-2P-2015-4,ELIZABETH II - TWO PENCE,2015,4th Portrait,,,,,C,Royal Mint,,,,,,,2 Pence,85900000
+,UK-2P-2015-5,ELIZABETH II - TWO PENCE,2015,5th Portrait,,,,,C,Royal Mint,,,,,,,2 Pence,139200000
+,UK-2P-2014,ELIZABETH II - TWO PENCE,2014,,,,,,C,Royal Mint,,,,,,,2 Pence,247600020
+,UK-2P-2013,ELIZABETH II - TWO PENCE,2013,,,,,,C,Royal Mint,,,,,,,2 Pence,40600000
+,UK-2P-2012,ELIZABETH II - TWO PENCE,2012,,,,,,C,Royal Mint,,,,,,,2 Pence,67800000
+,UK-2P-2011,ELIZABETH II - TWO PENCE,2011,,,,,,C,Royal Mint,,,,,,,2 Pence,144300000
+,UK-2P-2010,ELIZABETH II - TWO PENCE,2010,,,,,,C,Royal Mint,,,,,,,2 Pence,99600000
+,UK-2P-2009,ELIZABETH II - TWO PENCE,2009,,,,,,C,Royal Mint,,,,,,,2 Pence,150500500
+,UK-2P-2008-I,ELIZABETH II - TWO PENCE,2008,Ironside,,,,,C,Royal Mint,,,,,,,2 Pence,10600000
+,UK-2P-2008-D,ELIZABETH II - TWO PENCE,2008,Dent,,,,,C,Royal Mint,,,,,,,2 Pence,241679000
+,UK-2P-2007,ELIZABETH II - TWO PENCE,2007,,,,,,C,Royal Mint,,,,,,,2 Pence,254500000
+,UK-2P-2006,ELIZABETH II - TWO PENCE,2006,,,,,,C,Royal Mint,,,,,,,2 Pence,170637000
+,UK-2P-2005,ELIZABETH II - TWO PENCE,2005,,,,,,C,Royal Mint,,,,,,,2 Pence,280396000
+,UK-2P-2004,ELIZABETH II - TWO PENCE,2004,,,,,,C,Royal Mint,,,,,,,2 Pence,356396000
+,UK-2P-2003,ELIZABETH II - TWO PENCE,2003,,,,,,C,Royal Mint,,,,,,,2 Pence,260225000
+,UK-2P-2002,ELIZABETH II - TWO PENCE,2002,,,,,,C,Royal Mint,,,,,,,2 Pence,168556000
+,UK-2P-2001,ELIZABETH II - TWO PENCE,2001,,,,,,C,Royal Mint,,,,,,,2 Pence,551880000
+,UK-2P-2000,ELIZABETH II - TWO PENCE,2000,,,,,,C,Royal Mint,,,,,,,2 Pence,536659000
+,UK-2P-1999,ELIZABETH II - TWO PENCE,1999,,,,,,C,Royal Mint,,,,,,,2 Pence,353816000
+,UK-2P-1998-B,ELIZABETH II - TWO PENCE,1998,Bronze,,,,,C,Royal Mint,Bronze,,,,,,2 Pence,98676000
+,UK-2P-1998-C,ELIZABETH II - TWO PENCE,1998,Copper-plated Steel,,,,,C,Royal Mint,Copper-plated Steel,,,,,,2 Pence,115154000
+,UK-2P-1997,ELIZABETH II - TWO PENCE,1997,,,,,,C,Royal Mint,,,,,,,2 Pence,496116000
+,UK-2P-1996,ELIZABETH II - TWO PENCE,1996,,,,,,C,Royal Mint,,,,,,,2 Pence,296278000
+,UK-2P-1995,ELIZABETH II - TWO PENCE,1995,,,,,,C,Royal Mint,,,,,,,2 Pence,124482000
+,UK-2P-1994,ELIZABETH II - TWO PENCE,1994,,,,,,C,Royal Mint,,,,,,,2 Pence,531628000
+,UK-2P-1993,ELIZABETH II - TWO PENCE,1993,,,,,,C,Royal Mint,,,,,,,2 Pence,235674000
+,UK-2P-1992,ELIZABETH II - TWO PENCE,1992,,,,,,C,Royal Mint,,,,,,,2 Pence,102247000
+,UK-2P-1991,ELIZABETH II - TWO PENCE,1991,,,,,,C,Royal Mint,,,,,,,2 Pence,86625250
+,UK-2P-1990,ELIZABETH II - TWO PENCE,1990,,,,,,C,Royal Mint,,,,,,,2 Pence,204499700
+,UK-2P-1989,ELIZABETH II - TWO PENCE,1989,,,,,,C,Royal Mint,,,,,,,2 Pence,359226000
+,UK-2P-1988,ELIZABETH II - TWO PENCE,1988,,,,,,C,Royal Mint,,,,,,,2 Pence,419889000
+,UK-2P-1987,ELIZABETH II - TWO PENCE,1987,,,,,,C,Royal Mint,,,,,,,2 Pence,218100750
+,UK-2P-1986,ELIZABETH II - TWO PENCE,1986,,,,,,C,Royal Mint,,,,,,,2 Pence,168967500
+,UK-2P-1985,ELIZABETH II - TWO PENCE,1985,,,,,,C,Royal Mint,,,,,,,2 Pence,107113000
+,UK-2P-1981,ELIZABETH II - TWO PENCE,1981,,,,,,C,Royal Mint,,,,,,,2 Pence,353191000
+,UK-2P-1980,ELIZABETH II - TWO PENCE,1980,,,,,,C,Royal Mint,,,,,,,2 Pence,408527000
+,UK-2P-1979,ELIZABETH II - TWO PENCE,1979,,,,,,C,Royal Mint,,,,,,,2 Pence,260200000
+,UK-2P-1978,ELIZABETH II - TWO PENCE,1978,,,,,,C,Royal Mint,,,,,,,2 Pence,189658000
+,UK-2P-1977,ELIZABETH II - TWO PENCE,1977,,,,,,C,Royal Mint,,,,,,,2 Pence,109281000
+,UK-2P-1976,ELIZABETH II - TWO PENCE,1976,,,,,,C,Royal Mint,,,,,,,2 Pence,181379000
+,UK-2P-1975,ELIZABETH II - TWO PENCE,1975,,,,,,C,Royal Mint,,,,,,,2 Pence,145545000
+,UK-2P-1971,ELIZABETH II - TWO PENCE,1971,,,,,,C,Royal Mint,,,,,,,2 Pence,1454856250
+,UK-5P-2024,CHARLES III - FIVE PENCE,2024,Oak Tree Leaf (Flora and Fauna),,,,,R,Royal Mint,,,,,,,5 Pence,0
+,UK-5P-2023,CHARLES III - FIVE PENCE,2023,Oak Tree Leaf (Flora and Fauna),,,,,C,Royal Mint,,,,,,,5 Pence,32400000
+,UK-5P-2022,ELIZABETH II - FIVE PENCE,2022,,,,,,C,Royal Mint,,,,,,,5 Pence,42800000
+,UK-5P-2021,ELIZABETH II - FIVE PENCE,2021,,,,,,C,Royal Mint,,,,,,,5 Pence,28000000
+,UK-5P-2020,ELIZABETH II - FIVE PENCE,2020,,,,,,C,Royal Mint,,,,,,,5 Pence,49200000
+,UK-5P-2019,ELIZABETH II - FIVE PENCE,2019,,,,,,C,Royal Mint,,,,,,,5 Pence,92800000
+,UK-5P-2018,ELIZABETH II - FIVE PENCE,2018,,,,,,R,Royal Mint,,,,,,,5 Pence,0
+,UK-5P-2017,ELIZABETH II - FIVE PENCE,2017,,,,,,C,Royal Mint,,,,,,,5 Pence,220515000
+,UK-5P-2016,ELIZABETH II - FIVE PENCE,2016,,,,,,C,Royal Mint,,,,,,,5 Pence,305740000
+,UK-5P-2015-4,ELIZABETH II - FIVE PENCE,2015,4th Portrait,,,,,C,Royal Mint,,,,,,,5 Pence,163000000
+,UK-5P-2015-5,ELIZABETH II - FIVE PENCE,2015,5th Portrait,,,,,C,Royal Mint,,,,,,,5 Pence,536600000
+,UK-5P-2014,ELIZABETH II - FIVE PENCE,2014,,,,,,C,Royal Mint,,,,,,,5 Pence,885004520
+,UK-5P-2013,ELIZABETH II - FIVE PENCE,2013,,,,,,C,Royal Mint,,,,,,,5 Pence,378800750
+,UK-5P-2012,ELIZABETH II - FIVE PENCE,2012,,,,,,C,Royal Mint,,,,,,,5 Pence,339802350
+,UK-5P-2011,ELIZABETH II - FIVE PENCE,2011,,,,,,C,Royal Mint,,,,,,,5 Pence,50400000
+,UK-5P-2010,ELIZABETH II - FIVE PENCE,2010,,,,,,C,Royal Mint,,,,,,,5 Pence,396245500
+,UK-5P-2009,ELIZABETH II - FIVE PENCE,2009,,,,,,C,Royal Mint,,,,,,,5 Pence,132960300
+,UK-5P-2008-I,ELIZABETH II - FIVE PENCE,2008,Ironside,,,,,C,Royal Mint,,,,,,,5 Pence,92880000
+,UK-5P-2008-D,ELIZABETH II - FIVE PENCE,2008,Dent,,,,,C,Royal Mint,,,,,,,5 Pence,165172000
+,UK-5P-2007,ELIZABETH II - FIVE PENCE,2007,,,,,,C,Royal Mint,,,,,,,5 Pence,246720000
+,UK-5P-2006,ELIZABETH II - FIVE PENCE,2006,,,,,,C,Royal Mint,,,,,,,5 Pence,317697000
+,UK-5P-2005,ELIZABETH II - FIVE PENCE,2005,,,,,,C,Royal Mint,,,,,,,5 Pence,236212000
+,UK-5P-2004,ELIZABETH II - FIVE PENCE,2004,,,,,,C,Royal Mint,,,,,,,5 Pence,271810000
+,UK-5P-2003,ELIZABETH II - FIVE PENCE,2003,,,,,,C,Royal Mint,,,,,,,5 Pence,333230000
+,UK-5P-2002,ELIZABETH II - FIVE PENCE,2002,,,,,,C,Royal Mint,,,,,,,5 Pence,219258000
+,UK-5P-2001,ELIZABETH II - FIVE PENCE,2001,,,,,,C,Royal Mint,,,,,,,5 Pence,337930000
+,UK-5P-2000,ELIZABETH II - FIVE PENCE,2000,,,,,,C,Royal Mint,,,,,,,5 Pence,388512000
+,UK-5P-1999,ELIZABETH II - FIVE PENCE,1999,,,,,,C,Royal Mint,,,,,,,5 Pence,195490000
+,UK-5P-1998,ELIZABETH II - FIVE PENCE,1998,,,,,,C,Royal Mint,,,,,,,5 Pence,217376000
+,UK-5P-1997,ELIZABETH II - FIVE PENCE,1997,,,,,,C,Royal Mint,,,,,,,5 Pence,236596000
+,UK-5P-1996,ELIZABETH II - FIVE PENCE,1996,,,,,,C,Royal Mint,,,,,,,5 Pence,302902000
+,UK-5P-1995,ELIZABETH II - FIVE PENCE,1995,,,,,,C,Royal Mint,,,,,,,5 Pence,183384000
+,UK-5P-1994,ELIZABETH II - FIVE PENCE,1994,,,,,,C,Royal Mint,,,,,,,5 Pence,93602000
+,UK-5P-1992,ELIZABETH II - FIVE PENCE,1992,,,,,,C,Royal Mint,,,,,,,5 Pence,453173500
+,UK-5P-1991,ELIZABETH II - FIVE PENCE,1991,,,,,,C,Royal Mint,,,,,,,5 Pence,724979000
+,UK-5P-1990,ELIZABETH II - FIVE PENCE,1990,,,,,,C,Royal Mint,,,,,,,5 Pence,1634976005
+,UK-5P-1989,ELIZABETH II - FIVE PENCE,1989,,,,,,C,Royal Mint,,,,,,,5 Pence,101406000
+,UK-5P-1988,ELIZABETH II - FIVE PENCE,1988,,,,,,C,Royal Mint,,,,,,,5 Pence,120744610
+,UK-5P-1987,ELIZABETH II - FIVE PENCE,1987,,,,,,C,Royal Mint,,,,,,,5 Pence,48220000
+,UK-5P-1980,ELIZABETH II - FIVE PENCE,1980,,,,,,C,Royal Mint,,,,,,,5 Pence,220566000
+,UK-5P-1979,ELIZABETH II - FIVE PENCE,1979,,,,,,C,Royal Mint,,,,,,,5 Pence,155456000
+,UK-5P-1978,ELIZABETH II - FIVE PENCE,1978,,,,,,C,Royal Mint,,,,,,,5 Pence,61094000
+,UK-5P-1977,ELIZABETH II - FIVE PENCE,1977,,,,,,C,Royal Mint,,,,,,,5 Pence,24308000
+,UK-5P-1975,ELIZABETH II - FIVE PENCE,1975,,,,,,C,Royal Mint,,,,,,,5 Pence,141539000
+,UK-5P-1971,ELIZABETH II - FIVE PENCE,1971,,,,,,C,Royal Mint,,,,,,,5 Pence,81783475
+,UK-5P-1970,ELIZABETH II - FIVE PENCE,1970,,,,,,C,Royal Mint,,,,,,,5 Pence,225948525
+,UK-5P-1969,ELIZABETH II - FIVE PENCE,1969,,,,,,C,Royal Mint,,,,,,,5 Pence,120270000
+,UK-5P-1968,ELIZABETH II - FIVE PENCE,1968,,,,,,C,Royal Mint,,,,,,,5 Pence,98868250
+,UK-10P-2024,CHARLES III - TEN PENCE,2024,Capercaillie (Flora and Fauna),,,,,R,Royal Mint,,,,,,,10 Pence,0
+,UK-10P-2023,CHARLES III - TEN PENCE,2023,Capercaillie (Flora and Fauna),,,,,S,Royal Mint,,,,,,,10 Pence,600000
+,UK-10P-2022,ELIZABETH II - TEN PENCE,2022,,,,,,C,Royal Mint,,,,,,,10 Pence,38000000
+,UK-10P-2021,ELIZABETH II - TEN PENCE,2021,,,,,,C,Royal Mint,,,,,,,10 Pence,71200000
+,UK-10P-2020,ELIZABETH II - TEN PENCE,2020,,,,,,C,Royal Mint,,,,,,,10 Pence,45347846
+,UK-10P-2019,ELIZABETH II - TEN PENCE,2019,,,,,,R,Royal Mint,,,,,,,10 Pence,0
+,UK-10P-2019-GBA,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - A,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBB,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - B,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBC,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - C,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBD,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - D,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBE,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - E,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBF,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - F,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBG,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - G,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBH,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - H,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBI,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - I,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBJ,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - J,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBK,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - K,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBL,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - L,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBM,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - M,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBN,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - N,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBO,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - O,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBP,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - P,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBQ,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - Q,,,,,S,Royal Mint,,,,,,,10 Pence,83000
+,UK-10P-2019-GBR,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - R,,,,,S,Royal Mint,,,,,,,10 Pence,64000
+,UK-10P-2019-GBS,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - S,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBT,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - T,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBU,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - U,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBV,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - V,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBW,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - W,,,,,S,Royal Mint,,,,,,,10 Pence,63000
+,UK-10P-2019-GBX,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - X,,,,,S,Royal Mint,,,,,,,10 Pence,84000
+,UK-10P-2019-GBY,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - Y,,,,,S,Royal Mint,,,,,,,10 Pence,63000
+,UK-10P-2019-GBZ,ELIZABETH II - TEN PENCE,2019,Great British Coin Hunt - Z,,,,,S,Royal Mint,,,,,,,10 Pence,63000
+,UK-10P-2018,ELIZABETH II - TEN PENCE,2018,,,,,,R,Royal Mint,,,,,,,10 Pence,0
+,UK-10P-2018-GBA,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - A,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBB,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - B,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBC,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - C,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBD,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - D,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBE,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - E,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBF,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - F,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBG,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - G,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBH,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - H,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBI,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - I,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBJ,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - J,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBK,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - K,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBL,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - L,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBM,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - M,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBN,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - N,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBO,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - O,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBP,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - P,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBQ,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - Q,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBR,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - R,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBS,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - S,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBT,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - T,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBU,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - U,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBV,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - V,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBW,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - W,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBX,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - X,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBY,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - Y,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2018-GBZ,ELIZABETH II - TEN PENCE,2018,Great British Coin Hunt - Z,,,,,S,Royal Mint,,,,,,,10 Pence,220000
+,UK-10P-2017,ELIZABETH II - TEN PENCE,2017,,,,,,C,Royal Mint,,,,,,,10 Pence,33300000
+,UK-10P-2016,ELIZABETH II - TEN PENCE,2016,,,,,,C,Royal Mint,,,,,,,10 Pence,135380000
+,UK-10P-2015-4,ELIZABETH II - TEN PENCE,2015,4th Portrait,,,,,C,Royal Mint,,,,,,,10 Pence,119000000
+,UK-10P-2015-5,ELIZABETH II - TEN PENCE,2015,5th Portrait,,,,,C,Royal Mint,,,,,,,10 Pence,91900000
+,UK-10P-2014,ELIZABETH II - TEN PENCE,2014,,,,,,C,Royal Mint,,,,,,,10 Pence,490202020
+,UK-10P-2013,ELIZABETH II - TEN PENCE,2013,,,,,,C,Royal Mint,,,,,,,10 Pence,320200750
+,UK-10P-2012,ELIZABETH II - TEN PENCE,2012,,,,,,C,Royal Mint,,,,,,,10 Pence,11600030
+,UK-10P-2011,ELIZABETH II - TEN PENCE,2011,,,,,,C,Royal Mint,,,,,,,10 Pence,59603850
+,UK-10P-2010,ELIZABETH II - TEN PENCE,2010,,,,,,C,Royal Mint,,,,,,,10 Pence,96600500
+,UK-10P-2009,ELIZABETH II - TEN PENCE,2009,,,,,,C,Royal Mint,,,,,,,10 Pence,84360000
+,UK-10P-2008-I,ELIZABETH II - TEN PENCE,2008,Ironside,,,,,C,Royal Mint,,,,,,,10 Pence,9720000
+,UK-10P-2008-D,ELIZABETH II - TEN PENCE,2008,Dent,,,,,C,Royal Mint,,,,,,,10 Pence,71447000
+,UK-10P-2007,ELIZABETH II - TEN PENCE,2007,,,,,,C,Royal Mint,,,,,,,10 Pence,72720000
+,UK-10P-2006,ELIZABETH II - TEN PENCE,2006,,,,,,C,Royal Mint,,,,,,,10 Pence,118803000
+,UK-10P-2005,ELIZABETH II - TEN PENCE,2005,,,,,,C,Royal Mint,,,,,,,10 Pence,69604000
+,UK-10P-2004,ELIZABETH II - TEN PENCE,2004,,,,,,C,Royal Mint,,,,,,,10 Pence,99602000
+,UK-10P-2003,ELIZABETH II - TEN PENCE,2003,,,,,,C,Royal Mint,,,,,,,10 Pence,88118000
+,UK-10P-2002,ELIZABETH II - TEN PENCE,2002,,,,,,C,Royal Mint,,,,,,,10 Pence,80934000
+,UK-10P-2001,ELIZABETH II - TEN PENCE,2001,,,,,,C,Royal Mint,,,,,,,10 Pence,129281000
+,UK-10P-2000,ELIZABETH II - TEN PENCE,2000,,,,,,C,Royal Mint,,,,,,,10 Pence,134733000
+,UK-10P-1997,ELIZABETH II - TEN PENCE,1997,,,,,,C,Royal Mint,,,,,,,10 Pence,99196000
+,UK-10P-1996,ELIZABETH II - TEN PENCE,1996,,,,,,C,Royal Mint,,,,,,,10 Pence,118738000
+,UK-10P-1995,ELIZABETH II - TEN PENCE,1995,,,,,,C,Royal Mint,,,,,,,10 Pence,43259000
+,UK-10P-1992,ELIZABETH II - TEN PENCE,1992,,,,,,C,Royal Mint,,,,,,,10 Pence,1413455170
+,UK-10P-1981,ELIZABETH II - TEN PENCE,1981,,,,,,C,Royal Mint,,,,,,,10 Pence,3487000
+,UK-10P-1980,ELIZABETH II - TEN PENCE,1980,,,,,,C,Royal Mint,,,,,,,10 Pence,88650000
+,UK-10P-1979,ELIZABETH II - TEN PENCE,1979,,,,,,C,Royal Mint,,,,,,,10 Pence,115457000
+,UK-10P-1977,ELIZABETH II - TEN PENCE,1977,,,,,,C,Royal Mint,,,,,,,10 Pence,59323000
+,UK-10P-1976,ELIZABETH II - TEN PENCE,1976,,,,,,C,Royal Mint,,,,,,,10 Pence,228220000
+,UK-10P-1975,ELIZABETH II - TEN PENCE,1975,,,,,,C,Royal Mint,,,,,,,10 Pence,181559000
+,UK-10P-1974,ELIZABETH II - TEN PENCE,1974,,,,,,C,Royal Mint,,,,,,,10 Pence,92741000
+,UK-10P-1973,ELIZABETH II - TEN PENCE,1973,,,,,,C,Royal Mint,,,,,,,10 Pence,152174000
+,UK-10P-1971,ELIZABETH II - TEN PENCE,1971,,,,,,C,Royal Mint,,,,,,,10 Pence,63205000
+,UK-10P-1970,ELIZABETH II - TEN PENCE,1970,,,,,,C,Royal Mint,,,,,,,10 Pence,133571000
+,UK-10P-1969,ELIZABETH II - TEN PENCE,1969,,,,,,C,Royal Mint,,,,,,,10 Pence,314008000
+,UK-10P-1968,ELIZABETH II - TEN PENCE,1968,,,,,,C,Royal Mint,,,,,,,10 Pence,336143250
+,UK-20P-2024,CHARLES III - TWENTY PENCE,2024,Puffin (Flora and Fauna),,,,,R,Royal Mint,,,,,,,20 Pence,0
+,UK-20P-2023,CHARLES III - TWENTY PENCE,2023,Puffin (Flora and Fauna),,,,,S,Royal Mint,,,,,,,20 Pence,525000
+,UK-20P-2022,ELIZABETH II - TWENTY PENCE,2022,,,,,,C,Royal Mint,,,,,,,20 Pence,42875000
+,UK-20P-2021,ELIZABETH II - TWENTY PENCE,2021,,,,,,C,Royal Mint,,,,,,,20 Pence,19600000
+,UK-20P-2020,ELIZABETH II - TWENTY PENCE,2020,,,,,,C,Royal Mint,,,,,,,20 Pence,32725000
+,UK-20P-2019,ELIZABETH II - TWENTY PENCE,2019,,,,,,C,Royal Mint,,,,,,,20 Pence,125125000
+,UK-20P-2018,ELIZABETH II - TWENTY PENCE,2018,,,,,,R,Royal Mint,,,,,,,20 Pence,0
+,UK-20P-2017,ELIZABETH II - TWENTY PENCE,2017,,,,,,R,Royal Mint,,,,,,,20 Pence,0
+,UK-20P-2016,ELIZABETH II - TWENTY PENCE,2016,,,,,,C,Royal Mint,,,,,,,20 Pence,212625000
+,UK-20P-2015-4,ELIZABETH II - TWENTY PENCE,2015,4th Portrait,,,,,C,Royal Mint,,,,,,,20 Pence,63175000
+,UK-20P-2015-5,ELIZABETH II - TWENTY PENCE,2015,5th Portrait,,,,,C,Royal Mint,,,,,,,20 Pence,131250000
+,UK-20P-2014,ELIZABETH II - TWENTY PENCE,2014,,,,,,C,Royal Mint,,,,,,,20 Pence,173775000
+,UK-20P-2013,ELIZABETH II - TWENTY PENCE,2013,,,,,,C,Royal Mint,,,,,,,20 Pence,66325000
+,UK-20P-2012,ELIZABETH II - TWENTY PENCE,2012,,,,,,C,Royal Mint,,,,,,,20 Pence,69650030
+,UK-20P-2011,ELIZABETH II - TWENTY PENCE,2011,,,,,,C,Royal Mint,,,,,,,20 Pence,191625000
+,UK-20P-2010,ELIZABETH II - TWENTY PENCE,2010,,,,,,C,Royal Mint,,,,,,,20 Pence,112875500
+,UK-20P-2009,ELIZABETH II - TWENTY PENCE,2009,,,,,,C,Royal Mint,,,,,,,20 Pence,121625300
+,UK-20P-2008-G,ELIZABETH II - TWENTY PENCE,2008,Gardner,,,,,C,Royal Mint,,,,,,,20 Pence,11900000
+,UK-20P-2008-D,ELIZABETH II - TWENTY PENCE,2008,Dent,,,,,C,Royal Mint,,,,,,,20 Pence,115022000
+,UK-20P-2007,ELIZABETH II - TWENTY PENCE,2007,,,,,,C,Royal Mint,,,,,,,20 Pence,117075000
+,UK-20P-2006,ELIZABETH II - TWENTY PENCE,2006,,,,,,C,Royal Mint,,,,,,,20 Pence,114800000
+,UK-20P-2005,ELIZABETH II - TWENTY PENCE,2005,,,,,,C,Royal Mint,,,,,,,20 Pence,124488750
+,UK-20P-2004,ELIZABETH II - TWENTY PENCE,2004,,,,,,C,Royal Mint,,,,,,,20 Pence,120212500
+,UK-20P-2003,ELIZABETH II - TWENTY PENCE,2003,,,,,,C,Royal Mint,,,,,,,20 Pence,153383750
+,UK-20P-2002,ELIZABETH II - TWENTY PENCE,2002,,,,,,C,Royal Mint,,,,,,,20 Pence,93360000
+,UK-20P-2001,ELIZABETH II - TWENTY PENCE,2001,,,,,,C,Royal Mint,,,,,,,20 Pence,148122500
+,UK-20P-2000,ELIZABETH II - TWENTY PENCE,2000,,,,,,C,Royal Mint,,,,,,,20 Pence,136428750
+,UK-20P-1999,ELIZABETH II - TWENTY PENCE,1999,,,,,,C,Royal Mint,,,,,,,20 Pence,73478750
+,UK-20P-1998,ELIZABETH II - TWENTY PENCE,1998,,,,,,C,Royal Mint,,,,,,,20 Pence,76965000
+,UK-20P-1997,ELIZABETH II - TWENTY PENCE,1997,,,,,,C,Royal Mint,,,,,,,20 Pence,89518750
+,UK-20P-1996,ELIZABETH II - TWENTY PENCE,1996,,,,,,C,Royal Mint,,,,,,,20 Pence,83163750
+,UK-20P-1995,ELIZABETH II - TWENTY PENCE,1995,,,,,,C,Royal Mint,,,,,,,20 Pence,102005000
+,UK-20P-1994,ELIZABETH II - TWENTY PENCE,1994,,,,,,C,Royal Mint,,,,,,,20 Pence,67131250
+,UK-20P-1993,ELIZABETH II - TWENTY PENCE,1993,,,,,,C,Royal Mint,,,,,,,20 Pence,123123750
+,UK-20P-1992,ELIZABETH II - TWENTY PENCE,1992,,,,,,C,Royal Mint,,,,,,,20 Pence,31205000
+,UK-20P-1991,ELIZABETH II - TWENTY PENCE,1991,,,,,,C,Royal Mint,,,,,,,20 Pence,35901250
+,UK-20P-1990,ELIZABETH II - TWENTY PENCE,1990,,,,,,C,Royal Mint,,,,,,,20 Pence,88097500
+,UK-20P-1989,ELIZABETH II - TWENTY PENCE,1989,,,,,,C,Royal Mint,,,,,,,20 Pence,132013890
+,UK-20P-1988,ELIZABETH II - TWENTY PENCE,1988,,,,,,C,Royal Mint,,,,,,,20 Pence,38038344
+,UK-20P-1987,ELIZABETH II - TWENTY PENCE,1987,,,,,,C,Royal Mint,,,,,,,20 Pence,137450000
+,UK-20P-1985,ELIZABETH II - TWENTY PENCE,1985,,,,,,C,Royal Mint,,,,,,,20 Pence,74273699
+,UK-20P-1984,ELIZABETH II - TWENTY PENCE,1984,,,,,,C,Royal Mint,,,,,,,20 Pence,65350965
+,UK-20P-1983,ELIZABETH II - TWENTY PENCE,1983,,,,,,C,Royal Mint,,,,,,,20 Pence,158463000
+,UK-20P-1982,ELIZABETH II - TWENTY PENCE,1982,,,,,,C,Royal Mint,,,,,,,20 Pence,740815000
+,UK-50P-2024-AS,CHARLES III - FIFTY PENCE,2024,Atlantic Salmon (Flora and Fauna),,,,,R,Royal Mint,,,,,,,50 Pence,0
+,UK-50P-2023-AS,CHARLES III - FIFTY PENCE,2023,Atlantic Salmon (Flora and Fauna),,,,,S,Royal Mint,,,,,,,50 Pence,200000
+,UK-50P-2023-CC,CHARLES III - FIFTY PENCE,2023,Coronation of King Charles III,,,,,C,Royal Mint,,,,,,,50 Pence,5000000
+,UK-50P-2022-RS,ELIZABETH II - FIFTY PENCE,2022,Royal Shield,,,,,C,Royal Mint,,,,,,,50 Pence,9500000
+,UK-50P-2022-UKP,ELIZABETH II - FIFTY PENCE,2022,UK Pride,,,,,C,Royal Mint,,,,,,,50 Pence,5000000
+,UK-50P-2022-PJ,ELIZABETH II - FIFTY PENCE,2022,Platinum Jubilee,,,,,C,Royal Mint,,,,,,,50 Pence,5000070
+,UK-50P-2022-QEM,CHARLES III - FIFTY PENCE,2022,Queen Elizabeth Memorial,,,,,C,Royal Mint,,,,,,,50 Pence,9600000
+,UK-50P-2021-RS,ELIZABETH II - FIFTY PENCE,2021,Royal Shield,,,,,R,Royal Mint,,,,,,,50 Pence,0
+,UK-50P-2020-RS,ELIZABETH II - FIFTY PENCE,2020,Royal Shield,,,,,C,Royal Mint,,,,,,,50 Pence,46540375
+,UK-50P-2020-DIV,ELIZABETH II - FIFTY PENCE,2020,Diversity,,,,,C,Royal Mint,,,,,,,50 Pence,10300000
+,UK-50P-2020-BREXIT,ELIZABETH II - FIFTY PENCE,2020,Withdrawal from the European Union,,,,,C,Royal Mint,,,,,,,50 Pence,10001000
+,UK-50P-2019-SH,ELIZABETH II - FIFTY PENCE,2019,Sherlock Holmes,,,,,C,Royal Mint,,,,,,,50 Pence,8602000
+,UK-50P-2019-PT,ELIZABETH II - FIFTY PENCE,2019,Paddington at the Tower,,,,,C,Royal Mint,,,,,,,50 Pence,9001000
+,UK-50P-2019-PSP,ELIZABETH II - FIFTY PENCE,2019,Paddington at St. Pauls Cathedral,,,,,C,Royal Mint,,,,,,,50 Pence,9001000
+,UK-50P-2019-RS,ELIZABETH II - FIFTY PENCE,2019,Royal Shield,,,,,C,Royal Mint,,,,,,,50 Pence,122000000
+,UK-50P-2018-PR,ELIZABETH II - FIFTY PENCE,2018,Peter Rabbit (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,1400000
+,UK-50P-2018-FB,ELIZABETH II - FIFTY PENCE,2018,Flopsy Bunny (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,1400000
+,UK-50P-2018-TOG,ELIZABETH II - FIFTY PENCE,2018,Tailor of Gloucester (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,3900000
+,UK-50P-2018-MT,ELIZABETH II - FIFTY PENCE,2018,Mrs Tittlemouse (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,1700000
+,UK-50P-2018-PS,ELIZABETH II - FIFTY PENCE,2018,Paddington at the Station,,,,,C,Royal Mint,,,,,,,50 Pence,5001000
+,UK-50P-2018-RP,ELIZABETH II - FIFTY PENCE,2018,Representation of the People,,,,,C,Royal Mint,,,,,,,50 Pence,9000000
+,UK-50P-2018-PP,ELIZABETH II - FIFTY PENCE,2018,Paddington at the Palace,,,,,C,Royal Mint,,,,,,,50 Pence,5901000
+,UK-50P-2018-RS,ELIZABETH II - FIFTY PENCE,2018,Royal Shield,,,,,R,Royal Mint,,,,,,,50 Pence,0
+,UK-50P-2017-RS,ELIZABETH II - FIFTY PENCE,2017,Royal Shield,,,,,C,Royal Mint,,,,,,,50 Pence,1800000
+,UK-50P-2017-IN,ELIZABETH II - FIFTY PENCE,2017,Sir Isaac Newton,,,,,C,Royal Mint,,,,,,,50 Pence,1801500
+,UK-50P-2017-PR,ELIZABETH II - FIFTY PENCE,2017,Peter Rabbit (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,19900000
+,UK-50P-2017-TK,ELIZABETH II - FIFTY PENCE,2017,Tom Kitten (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,9500000
+,UK-50P-2017-JF,ELIZABETH II - FIFTY PENCE,2017,Jeremy Fisher (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,9900000
+,UK-50P-2017-BB,ELIZABETH II - FIFTY PENCE,2017,Benjamin Bunny (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,25000000
+,UK-50P-2016-JPD,ELIZABETH II - FIFTY PENCE,2016,Jemima Puddle-Duck (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,2100000
+,UK-50P-2016-SN,ELIZABETH II - FIFTY PENCE,2016,Squirrel Nutkin (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,5000000
+,UK-50P-2016-BPP,ELIZABETH II - FIFTY PENCE,2016,Beatrix Potter Portrait (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,6900000
+,UK-50P-2016-MTW,ELIZABETH II - FIFTY PENCE,2016,Mrs. Tiggy-Winkle (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,8800000
+,UK-50P-2016-PR,ELIZABETH II - FIFTY PENCE,2016,Peter Rabbit (Beatrix Potter),,,,,C,Royal Mint,,,,,,,50 Pence,9700000
+,UK-50P-2016-TGB,ELIZABETH II - FIFTY PENCE,2016,Team GB (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,6400000
+,UK-50P-2016-BOH,ELIZABETH II - FIFTY PENCE,2016,Battle of Hastings,,,,,C,Royal Mint,,,,,,,50 Pence,6700000
+,UK-50P-2016-RS,ELIZABETH II - FIFTY PENCE,2016,Royal Shield,,,,,R,Royal Mint,,,,,,,50 Pence,0
+,UK-50P-2015-RS4,ELIZABETH II - FIFTY PENCE,2015,Royal Shield - 4th Portrait,,,,,C,Royal Mint,,,,,,,50 Pence,20101000
+,UK-50P-2015-BOB,ELIZABETH II - FIFTY PENCE,2015,Battle of Britain - 5th Portrait,,,,,C,Royal Mint,,,,,,,50 Pence,5900000
+,UK-50P-2015-RS5,ELIZABETH II - FIFTY PENCE,2015,Royal Shield - 5th Portrait,,,,,C,Royal Mint,,,,,,,50 Pence,39300000
+,UK-50P-2014-RS,ELIZABETH II - FIFTY PENCE,2014,Royal Shield,,,,,C,Royal Mint,,,,,,,50 Pence,49001000
+,UK-50P-2014-GLA,ELIZABETH II - FIFTY PENCE,2014,Glasgow 2014,,,,,C,Royal Mint,,,,,,,50 Pence,6500000
+,UK-50P-2013-RS,ELIZABETH II - FIFTY PENCE,2013,Royal Shield,,,,,C,Royal Mint,,,,,,,50 Pence,10301000
+,UK-50P-2013-BB,ELIZABETH II - FIFTY PENCE,2013,Benjamin Britten,,,,,C,Royal Mint,,,,,,,50 Pence,5300000
+,UK-50P-2013-CI,ELIZABETH II - FIFTY PENCE,2013,Christopher Ironside,,,,,C,Royal Mint,,,,,,,50 Pence,7000000
+,UK-50P-2012-RS,ELIZABETH II - FIFTY PENCE,2012,Royal Shield,,,,,C,Royal Mint,,,,,,,50 Pence,32300030
+,UK-50P-2011-WWF,ELIZABETH II - FIFTY PENCE,2011,WWF,,,,,C,Royal Mint,,,,,,,50 Pence,3400000
+,UK-50P-2011-AQU,ELIZABETH II - FIFTY PENCE,2011,Aquatics (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2179000
+,UK-50P-2011-ARC,ELIZABETH II - FIFTY PENCE,2011,Archery (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,3345500
+,UK-50P-2011-ATH,ELIZABETH II - FIFTY PENCE,2011,Athletics (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2224000
+,UK-50P-2011-BAD,ELIZABETH II - FIFTY PENCE,2011,Badminton (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2133500
+,UK-50P-2011-BAS,ELIZABETH II - FIFTY PENCE,2011,Basketball (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1748000
+,UK-50P-2011-BOC,ELIZABETH II - FIFTY PENCE,2011,Boccia (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2166000
+,UK-50P-2011-BOX,ELIZABETH II - FIFTY PENCE,2011,Boxing (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2148500
+,UK-50P-2011-CAN,ELIZABETH II - FIFTY PENCE,2011,Canoeing (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2166500
+,UK-50P-2011-CYC,ELIZABETH II - FIFTY PENCE,2011,Cycling (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2090500
+,UK-50P-2011-EQU,ELIZABETH II - FIFTY PENCE,2011,Equestrian (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2142500
+,UK-50P-2011-FEN,ELIZABETH II - FIFTY PENCE,2011,Fencing (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2115500
+,UK-50P-2011-FOO,ELIZABETH II - FIFTY PENCE,2011,Football (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1125500
+,UK-50P-2011-GOA,ELIZABETH II - FIFTY PENCE,2011,Goalball (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1615500
+,UK-50P-2011-GYM,ELIZABETH II - FIFTY PENCE,2011,Gymnastics (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1720813
+,UK-50P-2011-HAN,ELIZABETH II - FIFTY PENCE,2011,Handball (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1676500
+,UK-50P-2011-HOC,ELIZABETH II - FIFTY PENCE,2011,Hockey (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1773500
+,UK-50P-2011-JUD,ELIZABETH II - FIFTY PENCE,2011,Judo (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1161500
+,UK-50P-2011-MOD,ELIZABETH II - FIFTY PENCE,2011,Modern Pentathlon (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1689500
+,UK-50P-2011-ROW,ELIZABETH II - FIFTY PENCE,2011,Rowing (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1717300
+,UK-50P-2011-SAI,ELIZABETH II - FIFTY PENCE,2011,Sailing (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1749500
+,UK-50P-2011-SHO,ELIZABETH II - FIFTY PENCE,2011,Shooting (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1656500
+,UK-50P-2011-TAB,ELIZABETH II - FIFTY PENCE,2011,Table Tennis (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1737500
+,UK-50P-2011-TAE,ELIZABETH II - FIFTY PENCE,2011,Taekwondo (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1664000
+,UK-50P-2011-TEN,ELIZABETH II - FIFTY PENCE,2011,Tennis (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1454000
+,UK-50P-2011-TRI,ELIZABETH II - FIFTY PENCE,2011,Triathlon (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1163500
+,UK-50P-2011-VOL,ELIZABETH II - FIFTY PENCE,2011,Volleyball (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,2133500
+,UK-50P-2011-WEI,ELIZABETH II - FIFTY PENCE,2011,Weightlifting (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1879500
+,UK-50P-2011-WHE,ELIZABETH II - FIFTY PENCE,2011,Wheelchair Rugby (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1765500
+,UK-50P-2011-WRE,ELIZABETH II - FIFTY PENCE,2011,Wrestling (Olympic Games),,,,,C,Royal Mint,,,,,,,50 Pence,1129500
+,UK-50P-2010-GG,ELIZABETH II - FIFTY PENCE,2010,Girl Guiding,,,,,C,Royal Mint,,,,,,,50 Pence,7410090
+,UK-50P-2009-KEW,ELIZABETH II - FIFTY PENCE,2009,Kew Gardens,,,,,S,Royal Mint,,,,,,,50 Pence,210000
+,UK-50P-2008-BRI,ELIZABETH II - FIFTY PENCE,2008,Britannia,,,,,C,Royal Mint,,,,,,,50 Pence,3500000
+,UK-50P-2008-RS,ELIZABETH II - FIFTY PENCE,2008,Royal Shield,,,,,C,Royal Mint,,,,,,,50 Pence,22747000
+,UK-£1-2024,CHARLES III - ONE POUND,2024,Bees (Flora and Fauna),,,,,R,Royal Mint,,,,,,,1 Pound,0
+,UK-£1-2023,CHARLES III - ONE POUND,2023,Bees (Flora and Fauna),,,,,C,Royal Mint,,,,,,,1 Pound,10030000
+,UK-£1-2022,ELIZABETH II - ONE POUND,2022,Nations of the Crown,,,,,C,Royal Mint,,,,,,,1 Pound,7735000
+,UK-£1-2021,ELIZABETH II - ONE POUND,2021,Nations of the Crown,,,,,C,Royal Mint,,,,,,,1 Pound,21760000
+,UK-£1-2020,ELIZABETH II - ONE POUND,2020,Nations of the Crown,,,,,C,Royal Mint,,,,,,,1 Pound,55840169
+,UK-£1-2019,ELIZABETH II - ONE POUND,2019,Nations of the Crown,,,,,C,Royal Mint,,,,,,,1 Pound,138635000
+,UK-£1-2018,ELIZABETH II - ONE POUND,2018,Nations of the Crown,,,,,C,Royal Mint,,,,,,,1 Pound,130560000
+,UK-£1-2017,ELIZABETH II - ONE POUND,2017,Nations of the Crown,,,,,C,Royal Mint,,,,,,,1 Pound,749616200
+,UK-£1-2016,ELIZABETH II - ONE POUND,2016,Nations of the Crown,,,,,C,Royal Mint,,,,,,,1 Pound,648936536
+,UK-£1-2015-RS4,ELIZABETH II - ONE POUND,2015,Royal Shield - 4th Portrait,,,,,C,Royal Mint,,,,,,,1 Pound,29580000
+,UK-£1-2015-RA5,ELIZABETH II - ONE POUND,2015,Royal Arms - 5th Portrait,,,,,C,Royal Mint,,,,,,,1 Pound,129616985
+,UK-£1-2014-RS,ELIZABETH II - ONE POUND,2014,Royal Shield,,,,,C,Royal Mint,,,,,,,1 Pound,79305200
+,UK-£1-2014-IRE,ELIZABETH II - ONE POUND,2014,Ireland,,,,,C,Royal Mint,,,,,,,1 Pound,5780000
+,UK-£1-2014-SCO,ELIZABETH II - ONE POUND,2014,Scotland,,,,,C,Royal Mint,,,,,,,1 Pound,5185000
+,UK-£1-2013-RS,ELIZABETH II - ONE POUND,2013,Royal Shield,,,,,C,Royal Mint,,,,,,,1 Pound,13090500
+,UK-£1-2013-ENG,ELIZABETH II - ONE POUND,2013,England,,,,,C,Royal Mint,,,,,,,1 Pound,5270000
+,UK-£1-2013-WAL,ELIZABETH II - ONE POUND,2013,Wales,,,,,C,Royal Mint,,,,,,,1 Pound,5270000
+,UK-£1-2012-RS,ELIZABETH II - ONE POUND,2012,Royal Shield,,,,,C,Royal Mint,,,,,,,1 Pound,35700030
+,UK-£1-2011-RS,ELIZABETH II - ONE POUND,2011,Royal Shield,,,,,C,Royal Mint,,,,,,,1 Pound,25415000
+,UK-£1-2011-CAR,ELIZABETH II - ONE POUND,2011,Cardiff,,,,,C,Royal Mint,,,,,,,1 Pound,1615000
+,UK-£1-2011-EDI,ELIZABETH II - ONE POUND,2011,Edinburgh,,,,,C,Royal Mint,,,,,,,1 Pound,935000
+,UK-£1-2010-RS,ELIZABETH II - ONE POUND,2010,Royal Shield,,,,,C,Royal Mint,,,,,,,1 Pound,57120000
+,UK-£1-2010-BEL,ELIZABETH II - ONE POUND,2010,Belfast,,,,,C,Royal Mint,,,,,,,1 Pound,6205000
+,UK-£1-2010-LON,ELIZABETH II - ONE POUND,2010,London,,,,,C,Royal Mint,,,,,,,1 Pound,2635000
+,UK-£1-2009-RS,ELIZABETH II - ONE POUND,2009,Royal Shield,,,,,C,Royal Mint,,,,,,,1 Pound,27625600
+,UK-£1-2008-RA,ELIZABETH II - ONE POUND,2008,Royal Arms,,,,,C,Royal Mint,,,,,,,1 Pound,3910000
+,UK-£1-2008-RS,ELIZABETH II - ONE POUND,2008,Royal Shield,,,,,C,Royal Mint,,,,,,,1 Pound,43827300
+,UK-£1-2007-MB,ELIZABETH II - ONE POUND,2007,Millennium Bridge,,,,,C,Royal Mint,,,,,,,1 Pound,26180160
+,UK-£1-2006-EAB,ELIZABETH II - ONE POUND,2006,Egyptian Arch Bridge,,,,,C,Royal Mint,,,,,,,1 Pound,38938000
+,UK-£1-2005-MEN,ELIZABETH II - ONE POUND,2005,Menai Bridge,,,,,C,Royal Mint,,,,,,,1 Pound,99429500
+,UK-£1-2004-FRB,ELIZABETH II - ONE POUND,2004,Forth Railway Bridge,,,,,C,Royal Mint,,,,,,,1 Pound,39162000
+,UK-£1-2003-RA,ELIZABETH II - ONE POUND,2003,Royal Arms,,,,,C,Royal Mint,,,,,,,1 Pound,61596500
+,UK-£1-2002-3L,ELIZABETH II - ONE POUND,2002,Three Lions,,,,,C,Royal Mint,,,,,,,1 Pound,77818000
+,UK-£1-2001-CC,ELIZABETH II - ONE POUND,2001,Celtic Cross,,,,,C,Royal Mint,,,,,,,1 Pound,63968065
+,UK-£1-2000-DRA,ELIZABETH II - ONE POUND,2000,Dragon,,,,,C,Royal Mint,,,,,,,1 Pound,109496500
+,UK-£1-1997-3L,ELIZABETH II - ONE POUND,1997,Three Lions,,,,,C,Royal Mint,,,,,,,1 Pound,57117450
+,UK-£1-1996-CC,ELIZABETH II - ONE POUND,1996,Celtic Cross,,,,,C,Royal Mint,,,,,,,1 Pound,89886000
+,UK-£1-1995-DRA,ELIZABETH II - ONE POUND,1995,Dragon,,,,,C,Royal Mint,,,,,,,1 Pound,34503501
+,UK-£1-1994-LR,ELIZABETH II - ONE POUND,1994,Lion Rampant,,,,,C,Royal Mint,,,,,,,1 Pound,29752525
+,UK-£1-1993-RA,ELIZABETH II - ONE POUND,1993,Royal Arms,,,,,C,Royal Mint,,,,,,,1 Pound,114744500
+,UK-£1-1992-OAK,ELIZABETH II - ONE POUND,1992,Oak Tree,,,,,C,Royal Mint,,,,,,,1 Pound,36320487
+,UK-£1-1991-FLAX,ELIZABETH II - ONE POUND,1991,Flax Plant,,,,,C,Royal Mint,,,,,,,1 Pound,38443575
+,UK-£1-1990-LEEK,ELIZABETH II - ONE POUND,1990,Leek,,,,,C,Royal Mint,,,,,,,1 Pound,97269302
+,UK-£1-1989-THI,ELIZABETH II - ONE POUND,1989,Thistle,,,,,C,Royal Mint,,,,,,,1 Pound,70580501
+,UK-£1-1988-RSG,ELIZABETH II - ONE POUND,1988,Royal Shield - Gorringe,,,,,C,Royal Mint,,,,,,,1 Pound,7118825
+,UK-£1-1987-OAK,ELIZABETH II - ONE POUND,1987,Oak Tree,,,,,C,Royal Mint,,,,,,,1 Pound,39298502
+,UK-£1-1986-FLAX,ELIZABETH II - ONE POUND,1986,Flax Plant,,,,,C,Royal Mint,,,,,,,1 Pound,10409501
+,UK-£1-1985-LEEK,ELIZABETH II - ONE POUND,1985,Leek,,,,,C,Royal Mint,,,,,,,1 Pound,228430749
+,UK-£1-1984-THI,ELIZABETH II - ONE POUND,1984,Thistle,,,,,C,Royal Mint,,,,,,,1 Pound,146256501
+,UK-£1-1983-RA,ELIZABETH II - ONE POUND,1983,Royal Arms,,,,,C,Royal Mint,,,,,,,1 Pound,443053510
+,UK-£2-2024-NF,CHARLES III - TWO POUNDS,2024,National Flowers (Flora and Fauna),,,,,R,Royal Mint,,,,,,,2 Pounds,0
+,UK-£2-2023-NF,CHARLES III - TWO POUNDS,2023,National Flowers (Flora and Fauna),,,,,R,Royal Mint,,,,,,,2 Pounds,0
+,UK-£2-2022-BRI,ELIZABETH II - TWO POUNDS,2022,Britannia,,,,,C,Royal Mint,,,,,,,2 Pounds,4030000
+,UK-£2-2021-BRI,ELIZABETH II - TWO POUNDS,2021,Britannia,,,,,C,Royal Mint,,,,,,,2 Pounds,6045000
+,UK-£2-2020-BRI,ELIZABETH II - TWO POUNDS,2020,Britannia,,,,,R,Royal Mint,,,,,,,2 Pounds,0
+,UK-£2-2019-BRI,ELIZABETH II - TWO POUNDS,2019,Britannia,,,,,R,Royal Mint,,,,,,,2 Pounds,0
+,UK-£2-2018-BRI5,ELIZABETH II - TWO POUNDS,2018,Britannia - 5th Portrait,,,,,R,Royal Mint,,,,,,,2 Pounds,0
+,UK-£2-2017-BRI,ELIZABETH II - TWO POUNDS,2017,Britannia,,,,,R,Royal Mint,,,,,,,2 Pounds,0
+,UK-£2-2016-FWWA,ELIZABETH II - TWO POUNDS,2016,First World War Army (FWW),,,,,C,Royal Mint,,,,,,,2 Pounds,9550000
+,UK-£2-2016-SHC,ELIZABETH II - TWO POUNDS,2016,Shakespeare Comedies,,,,,C,Royal Mint,,,,,,,2 Pounds,4355000
+,UK-£2-2016-SHH,ELIZABETH II - TWO POUNDS,2016,Shakespeare Histories,,,,,C,Royal Mint,,,,,,,2 Pounds,5655000
+,UK-£2-2016-SHT,ELIZABETH II - TWO POUNDS,2016,Shakespeare Tragedies,,,,,C,Royal Mint,,,,,,,2 Pounds,4615000
+,UK-£2-2016-GFL,ELIZABETH II - TWO POUNDS,2016,Great Fire of London,,,,,C,Royal Mint,,,,,,,2 Pounds,1625000
+,UK-£2-2016-BRI,ELIZABETH II - TWO POUNDS,2016,Britannia,,,,,C,Royal Mint,,,,,,,2 Pounds,2925000
+,UK-£2-2015-TECH4,ELIZABETH II - TWO POUNDS,2015,Technology - 4th Portrait,,,,,C,Royal Mint,,,,,,,2 Pounds,35360058
+,UK-£2-2015-MC,ELIZABETH II - TWO POUNDS,2015,Magna Carta - 5th Portrait,,,,,C,Royal Mint,,,,,,,2 Pounds,1495000
+,UK-£2-2015-FWWN,ELIZABETH II - TWO POUNDS,2015,FWW Navy - 5th Portrait,,,,,S,Royal Mint,,,,,,,2 Pounds,650000
+,UK-£2-2015-BRI5,ELIZABETH II - TWO POUNDS,2015,Britannia - 5th Portrait,,,,,S,Royal Mint,,,,,,,2 Pounds,650000
+,UK-£2-2014-TECH,ELIZABETH II - TWO POUNDS,2014,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,18200000
+,UK-£2-2014-FWWO,ELIZABETH II - TWO POUNDS,2014,FWW Outbreak,,,,,C,Royal Mint,,,,,,,2 Pounds,5720000
+,UK-£2-2014-TH,ELIZABETH II - TWO POUNDS,2014,Trinity House,,,,,C,Royal Mint,,,,,,,2 Pounds,3705000
+,UK-£2-2013-TECH,ELIZABETH II - TWO POUNDS,2013,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,15860250
+,UK-£2-2013-LUT,ELIZABETH II - TWO POUNDS,2013,London Underground - The Train,,,,,C,Royal Mint,,,,,,,2 Pounds,1690000
+,UK-£2-2013-LUR,ELIZABETH II - TWO POUNDS,2013,London Underground - The Roundel,,,,,C,Royal Mint,,,,,,,2 Pounds,1560000
+,UK-£2-2013-AOG,ELIZABETH II - TWO POUNDS,2013,Anniversary of the Guinea,,,,,C,Royal Mint,,,,,,,2 Pounds,2990000
+,UK-£2-2012-TECH,ELIZABETH II - TWO POUNDS,2012,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,3900000
+,UK-£2-2012-OGH,ELIZABETH II - TWO POUNDS,2012,Olympic Games Handover,,,,,C,Royal Mint,,,,,,,2 Pounds,845000
+,UK-£2-2012-CD,ELIZABETH II - TWO POUNDS,2012,Charles Dickens,,,,,C,Royal Mint,,,,,,,2 Pounds,8190000
+,UK-£2-2011-TECH,ELIZABETH II - TWO POUNDS,2011,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,24375030
+,UK-£2-2011-KJB,ELIZABETH II - TWO POUNDS,2011,King James Bible,,,,,C,Royal Mint,,,,,,,2 Pounds,975000
+,UK-£2-2011-MR,ELIZABETH II - TWO POUNDS,2011,Mary Rose,,,,,C,Royal Mint,,,,,,,2 Pounds,1040000
+,UK-£2-2010-TECH,ELIZABETH II - TWO POUNDS,2010,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,6890000
+,UK-£2-2010-FN,ELIZABETH II - TWO POUNDS,2010,Florence Nightingale,,,,,C,Royal Mint,,,,,,,2 Pounds,6175000
+,UK-£2-2009-TECH,ELIZABETH II - TWO POUNDS,2009,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,8775000
+,UK-£2-2009-DAR,ELIZABETH II - TWO POUNDS,2009,Darwin,,,,,C,Royal Mint,,,,,,,2 Pounds,3903000
+,UK-£2-2009-BUR,ELIZABETH II - TWO POUNDS,2009,Burns,,,,,C,Royal Mint,,,,,,,2 Pounds,3253000
+,UK-£2-2008-TECH,ELIZABETH II - TWO POUNDS,2008,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,30107000
+,UK-£2-2008-1908OG,ELIZABETH II - TWO POUNDS,2008,1908 Olympic Games,,,,,C,Royal Mint,,,,,,,2 Pounds,910000
+,UK-£2-2008-OGH,ELIZABETH II - TWO POUNDS,2008,Olympic Games Handover,,,,,C,Royal Mint,,,,,,,2 Pounds,918000
+,UK-£2-2007-TECH,ELIZABETH II - TWO POUNDS,2007,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,10270000
+,UK-£2-2007-AOU,ELIZABETH II - TWO POUNDS,2007,Act of Union,,,,,C,Royal Mint,,,,,,,2 Pounds,7545000
+,UK-£2-2007-ST,ELIZABETH II - TWO POUNDS,2007,Slave Trade,,,,,C,Royal Mint,,,,,,,2 Pounds,8445000
+,UK-£2-2006-TECH,ELIZABETH II - TWO POUNDS,2006,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,16715000
+,UK-£2-2006-BRU-P,ELIZABETH II - TWO POUNDS,2006,Brunel - portrait,,,,,C,Royal Mint,,,,,,,2 Pounds,7928250
+,UK-£2-2006-BRU-A,ELIZABETH II - TWO POUNDS,2006,Brunel - achievements,,,,,C,Royal Mint,,,,,,,2 Pounds,7452250
+,UK-£2-2005-TECH,ELIZABETH II - TWO POUNDS,2005,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,3837250
+,UK-£2-2005-WWII,ELIZABETH II - TWO POUNDS,2005,World War II,,,,,C,Royal Mint,,,,,,,2 Pounds,10191000
+,UK-£2-2005-GP,ELIZABETH II - TWO POUNDS,2005,Gunpowder Plot,,,,,C,Royal Mint,,,,,,,2 Pounds,5140500
+,UK-£2-2004-TECH,ELIZABETH II - TWO POUNDS,2004,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,11981500
+,UK-£2-2004-TRE,ELIZABETH II - TWO POUNDS,2004,Trevithick,,,,,C,Royal Mint,,,,,,,2 Pounds,5004500
+,UK-£2-2003-TECH,ELIZABETH II - TWO POUNDS,2003,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,17531250
+,UK-£2-2003-DNA,ELIZABETH II - TWO POUNDS,2003,DNA,,,,,C,Royal Mint,,,,,,,2 Pounds,4299000
+,UK-£2-2002-TECH,ELIZABETH II - TWO POUNDS,2002,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,13024750
+,UK-£2-2002-CGS,ELIZABETH II - TWO POUNDS,2002,Commonwealth Games - Scotland,,,,,S,Royal Mint,,,,,,,2 Pounds,771750
+,UK-£2-2002-CGW,ELIZABETH II - TWO POUNDS,2002,Commonwealth Games - Wales,,,,,S,Royal Mint,,,,,,,2 Pounds,588500
+,UK-£2-2002-CGI,ELIZABETH II - TWO POUNDS,2002,Commonwealth Games - Ireland,,,,,S,Royal Mint,,,,,,,2 Pounds,485500
+,UK-£2-2002-CGE,ELIZABETH II - TWO POUNDS,2002,Commonwealth Games - England,,,,,S,Royal Mint,,,,,,,2 Pounds,650500
+,UK-£2-2001-TECH,ELIZABETH II - TWO POUNDS,2001,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,34984750
+,UK-£2-2001-MAR,ELIZABETH II - TWO POUNDS,2001,Marconi,,,,,C,Royal Mint,,,,,,,2 Pounds,4558000
+,UK-£2-2000-TECH,ELIZABETH II - TWO POUNDS,2000,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,25770000
+,UK-£2-1999-TECH,ELIZABETH II - TWO POUNDS,1999,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,33719000
+,UK-£2-1999-RWC,ELIZABETH II - TWO POUNDS,1999,Rugby World Cup,,,,,C,Royal Mint,,,,,,,2 Pounds,4933000
+,UK-£2-1998-TECH,ELIZABETH II - TWO POUNDS,1998,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,91110375
+,UK-£2-1997-TECH,ELIZABETH II - TWO POUNDS,1997,Technology,,,,,C,Royal Mint,,,,,,,2 Pounds,13734625
