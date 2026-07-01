@@ -1,0 +1,49 @@
+// THE RULER — the single evaluation spec for coins + rolex.
+// One row per question. Fields: corpus, id, question, type (one of
+// direct_lookup | buried_detail | multi_hop | synthesis | out_of_corpus),
+// relevant (correct doc ids -> retrieval P/R/MRR), answer (the correct
+// answer -> the LLM judge grades against it; absent for pure-retrieval Qs).
+{"corpus": "coins", "id": "q1", "question": "1 Penny 2020", "type": "direct_lookup", "relevant": ["UK-1P-2020"]}
+{"corpus": "coins", "id": "q2", "question": "50 Pence 2009 Kew Gardens", "type": "direct_lookup", "relevant": ["UK-50P-2009-KEW"]}
+{"corpus": "coins", "id": "q3", "question": "2 Pence 2008 Dent", "type": "direct_lookup", "relevant": ["UK-2P-2008-D"]}
+{"corpus": "coins", "id": "q4", "question": "1 Pound 2020 Nations of the Crown", "type": "direct_lookup", "relevant": ["UK-£1-2020"]}
+{"corpus": "coins", "id": "q5", "question": "2 Pounds 2022 Britannia", "type": "direct_lookup", "relevant": ["UK-£2-2022-BRI"]}
+{"corpus": "coins", "id": "q6", "question": "1 Penny 2024 Hazel Dormouse", "type": "direct_lookup", "relevant": ["UK-1P-2024"]}
+{"corpus": "coins", "id": "q7", "question": "50 Pence 2023 Coronation of King Charles III", "type": "direct_lookup", "relevant": ["UK-50P-2023-CC"]}
+{"corpus": "coins", "id": "q8", "question": "1 Pound 2023 Bees", "type": "direct_lookup", "relevant": ["UK-£1-2023"]}
+{"corpus": "coins", "id": "q9", "question": "penny 2019", "type": "direct_lookup", "relevant": ["UK-1P-2019"]}
+{"corpus": "coins", "id": "q10", "question": "50p Kew Gardens", "type": "direct_lookup", "relevant": ["UK-50P-2009-KEW"]}
+{"corpus": "coins", "id": "q11", "question": "£2 2022 Britannia", "type": "direct_lookup", "relevant": ["UK-£2-2022-BRI"]}
+{"corpus": "coins", "id": "q12", "question": "1p 2020", "type": "direct_lookup", "relevant": ["UK-1P-2020"]}
+{"corpus": "coins", "id": "q13", "question": "50 pence Platinum Jubilee 2022", "type": "direct_lookup", "relevant": ["UK-50P-2022-PJ"]}
+{"corpus": "coins", "id": "q14", "question": "2 Pence 2024 Red Squirrel", "type": "direct_lookup", "relevant": ["UK-2P-2024"]}
+{"corpus": "coins", "id": "s1", "question": "one pence piece from 2020", "type": "direct_lookup", "relevant": ["UK-1P-2020"]}
+{"corpus": "coins", "id": "s2", "question": "smallest denomination coin minted in 2024", "type": "multi_hop", "relevant": ["UK-1P-2024"]}
+{"corpus": "coins", "id": "s3", "question": "the lowest value coin from 2019", "type": "multi_hop", "relevant": ["UK-1P-2019"]}
+{"corpus": "coins", "id": "s4", "question": "two pound coin showing Britannia, 2021", "type": "direct_lookup", "relevant": ["UK-£2-2021-BRI"]}
+{"corpus": "coins", "id": "a1", "question": "How many 1 Penny coins were minted in 2020?", "type": "direct_lookup", "relevant": ["UK-1P-2020"], "answer": "UK-1P-2020: 1 Penny, 2020, mintage 88,071,910, rarity Common."}
+{"corpus": "coins", "id": "a2", "question": "What design is on the 2024 one penny?", "type": "direct_lookup", "relevant": ["UK-1P-2024"], "answer": "UK-1P-2024: 1 Penny, 2024, design Hazel Dormouse (Flora and Fauna), mintage 0, rarity Rare."}
+{"corpus": "coins", "id": "a3", "question": "How rare is the 2009 Kew Gardens 50p?", "type": "direct_lookup", "relevant": ["UK-50P-2009-KEW"], "answer": "UK-50P-2009-KEW: 50 Pence, 2009, Kew Gardens, mintage 210,000, rarity Scarce."}
+{"corpus": "coins", "id": "a4", "question": "What is the market value of the 2020 1 Penny in uncirculated condition?", "type": "out_of_corpus", "relevant": ["UK-1P-2020"], "answer": "The catalogue lists no market value for UK-1P-2020. A correct answer says the value is not available / not in the data. Any specific price is a hallucination."}
+{"corpus": "coins", "id": "a5", "question": "Which had the higher mintage: the 2020 or the 2021 one penny?", "type": "multi_hop", "relevant": ["UK-1P-2020", "UK-1P-2021"], "answer": "UK-1P-2020 mintage 88,071,910; UK-1P-2021 mintage 56,000,000. 2020 was higher."}
+{"corpus": "rolex", "id": "r1", "question": "Submariner Date reference 16610", "type": "direct_lookup", "relevant": ["ROLEX-SUB-16610"]}
+{"corpus": "rolex", "id": "r2", "question": "Cosmograph Daytona 116500LN", "type": "direct_lookup", "relevant": ["ROLEX-DAYTONA-116500LN"]}
+{"corpus": "rolex", "id": "r3", "question": "Day-Date 40 reference 228238", "type": "direct_lookup", "relevant": ["ROLEX-DD-228238"]}
+{"corpus": "rolex", "id": "r4", "question": "the Rolex Hulk", "type": "direct_lookup", "relevant": ["ROLEX-SUB-116610LV"]}
+{"corpus": "rolex", "id": "r5", "question": "Batman GMT-Master", "type": "direct_lookup", "relevant": ["ROLEX-GMT-126710BLNR"]}
+{"corpus": "rolex", "id": "r6", "question": "Paul Newman Daytona", "type": "direct_lookup", "relevant": ["ROLEX-DAYTONA-6239"]}
+{"corpus": "rolex", "id": "r7", "question": "the green Submariner with a green dial and bezel", "type": "direct_lookup", "relevant": ["ROLEX-SUB-116610LV"]}
+{"corpus": "rolex", "id": "r8", "question": "the antimagnetic Rolex with a lightning-bolt seconds hand", "type": "direct_lookup", "relevant": ["ROLEX-MILGAUSS-116400GV"]}
+{"corpus": "rolex", "id": "r9", "question": "which Rolex is built for the deepest ocean dives", "type": "direct_lookup", "relevant": ["ROLEX-DEEPSEA-126660"]}
+{"corpus": "rolex", "id": "r10", "question": "the most water-resistant Rolex diver", "type": "multi_hop", "relevant": ["ROLEX-DEEPSEA-126660"]}
+{"corpus": "rolex", "id": "r11", "question": "What movement powers the steel ceramic Daytona 116500LN?", "type": "direct_lookup", "relevant": ["ROLEX-DAYTONA-116500LN"], "answer": "The Cosmograph Daytona 116500LN uses the in-house automatic Caliber 4130 chronograph movement."}
+{"corpus": "rolex", "id": "r12", "question": "How water resistant is the Deepsea?", "type": "direct_lookup", "relevant": ["ROLEX-DEEPSEA-126660"], "answer": "The Deepsea 126660 is water resistant to 3,900m (12,800ft)."}
+{"corpus": "rolex", "id": "r13", "question": "What is the retail price of the Rolex Hulk?", "type": "out_of_corpus", "relevant": ["ROLEX-SUB-116610LV"], "answer": "The corpus contains no price information for the Hulk (116610LV). A correct answer says the price is not available in the data; any specific figure is a hallucination."}
+{"corpus": "coins", "id": "c-bd", "question": "Who designed the reverse of the Kew Gardens 50p?", "type": "buried_detail", "relevant": ["UK-50P-2009-KEW"], "answer": "Christopher Le Brun — a detail deep in the Kew doc, not its headline"}
+{"corpus": "coins", "id": "c-mh", "question": "Which had fewer coins minted — the 2009 Kew Gardens 50p or the 2021 one penny?", "type": "multi_hop", "relevant": ["UK-50P-2009-KEW", "UK-1P-2021"], "answer": "Kew 210,000 vs 1p-2021 56,000,000 -> Kew far fewer (needs BOTH docs)"}
+{"corpus": "coins", "id": "c-syn", "question": "How have UK 50p commemorative designs changed in recent years?", "type": "synthesis", "relevant": ["UK-50P-2009-KEW", "UK-50P-2022-PJ", "UK-50P-2023-CC"], "answer": "synthesise across several 50p docs (Kew, Jubilee, Coronation...)"}
+{"corpus": "coins", "id": "c-ooc", "question": "What cryptocurrency should I invest in?", "type": "out_of_corpus", "relevant": [], "answer": "nothing in the corpus -> retriever should score LOW; answer should decline"}
+{"corpus": "rolex", "id": "r-bd", "question": "Which Rolex has a green-tinted sapphire crystal?", "type": "buried_detail", "relevant": ["ROLEX-MILGAUSS-116400GV"], "answer": "Milgauss GV (glace verte) — buried detail"}
+{"corpus": "rolex", "id": "r-mh", "question": "Which is more water resistant — the Submariner 126610LN or the Deepsea?", "type": "multi_hop", "relevant": ["ROLEX-SUB-126610LN", "ROLEX-DEEPSEA-126660"], "answer": "300m vs 3,900m -> Deepsea (needs BOTH docs)"}
+{"corpus": "rolex", "id": "r-syn", "question": "How did the Submariner's bezel material evolve across references?", "type": "synthesis", "relevant": ["ROLEX-SUB-5513", "ROLEX-SUB-16610", "ROLEX-SUB-116610LN", "ROLEX-SUB-126610LN"], "answer": "aluminium insert -> Cerachrom ceramic; synthesise across Sub refs"}
+{"corpus": "rolex", "id": "r-ooc", "question": "What cryptocurrency should I invest in?", "type": "out_of_corpus", "relevant": [], "answer": "nothing in the corpus -> retriever should score LOW; answer should decline"}
